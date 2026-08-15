@@ -429,7 +429,7 @@ i {
 .skill {
 	position: relative;
 	max-width: 600px;
-	width: 100;
+	width: 100%;
 	background: transparent;
 	box-shadow: 1px 8px 10px 2px var(--first-shadow);
 	padding: 10px 20px;
