@@ -30,7 +30,6 @@ var typingEffect = new Typed(".typedText", {
     typespeed: 100,
     backspeed: 80,
     backDelay: 2000,
-// this function did not work
 
 })
 
