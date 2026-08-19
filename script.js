@@ -9,6 +9,12 @@ function myMenuFunction () {
 
 }
 
+document.querySelectorAll(".nav-link").forEach((link) => {
+  link.addEventListener("click", () => {
+    document.getElementById("myNavmenu").classList.remove("responsive");
+  });
+});
+
 
 
 
